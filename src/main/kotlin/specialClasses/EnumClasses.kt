@@ -1,4 +1,4 @@
-package controlflow.specialClasses
+package specialClasses
 
 enum class State {
     IDLE, RUNNING, FINISHED

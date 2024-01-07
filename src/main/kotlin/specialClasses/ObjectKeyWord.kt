@@ -1,4 +1,4 @@
-package controlflow.specialClasses
+package specialClasses
 
 import java.util.Random
 

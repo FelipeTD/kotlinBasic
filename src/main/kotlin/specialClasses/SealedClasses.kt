@@ -1,4 +1,4 @@
-package controlflow.specialClasses
+package specialClasses
 
 sealed class Mammal(val name: String)
 

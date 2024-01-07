@@ -1,4 +1,4 @@
-package nullSafety
+package introduction.nullSafety
 
 fun describeString(maybeString: String?): String {
 

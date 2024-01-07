@@ -1,4 +1,4 @@
-package functions
+package introduction.functions
 
 fun main() {
     infix fun Int.times(str: String) = str.repeat(this)

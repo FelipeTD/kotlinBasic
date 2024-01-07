@@ -1,4 +1,4 @@
-package classes
+package introduction.classes
 
 class Customer
 

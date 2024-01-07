@@ -1,4 +1,4 @@
-package inheritance
+package introduction.inheritance
 
 open class Tiger(val origin: String) {
     fun sayHello() {

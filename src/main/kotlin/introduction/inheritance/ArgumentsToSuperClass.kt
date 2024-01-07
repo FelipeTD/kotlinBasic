@@ -1,4 +1,4 @@
-package inheritance
+package introduction.inheritance
 
 open class Lion(val name: String, val origin: String) {
     fun sayHello() {

@@ -1,4 +1,4 @@
-package generics
+package introduction.generics
 
 class MutableStack<E>(vararg items: E) {
 

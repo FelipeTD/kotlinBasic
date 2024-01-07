@@ -1,4 +1,4 @@
-package inheritance
+package introduction.inheritance
 
 open class Dog {
     open fun sayHello() {

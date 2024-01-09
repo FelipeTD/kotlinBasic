@@ -1,0 +1,20 @@
+package delegation
+
+class LazySample {
+    init {
+        println("Created!")
+    }
+
+    val lazyStr: String by lazy {
+        println("computed!")
+        "my lazy"
+    }
+}
+
+fun main() {
+
+    val sample = LazySample()
+    println("lazyStr = ${sample.lazyStr}")
+    println(" = ${sample.lazyStr}")
+
+}
